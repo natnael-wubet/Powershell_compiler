@@ -1,0 +1,1 @@
+@powershell -executionpolicy bypass -w hidden -nologo -noprofile -file ./main.ps1
